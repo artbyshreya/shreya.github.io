@@ -1,8 +1,6 @@
-<img width="250" height="250" alt="Untitled_Artwork 25-2" src="https://github.com/user-attachments/assets/15fdea80-0468-49b2-9745-992b81695100"/>
+<img width="350" height="350" alt="Untitled_Artwork 27" src="https://github.com/user-attachments/assets/821b3954-1900-4bdf-b4cd-f28b54abffd1" />
 # Profile
 Shreya is an animator and illustrator based in the Bay Area. She enjoys creating immersive worlds with energetic characters and bright color pallets.
 body  {
 /* background: url('https://shreyaneocities.carrd.co/assets/images/image02.jpg?v=9f4f9b35'); */
 }
-
-<img width="250" height="250" alt="Untitled_Artwork 227" src="https://github.com/user-attachments/assets/ba942f32-e3c6-4642-82cc-a613776943c2"/>
