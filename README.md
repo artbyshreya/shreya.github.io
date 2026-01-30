@@ -36,7 +36,7 @@
 # About
 Shreya is an animator and illustrator based in the Bay Area. She enjoys creating immersive worlds with energetic characters and bright color pallets.
 
-<img width="800" height="800" alt="Untitled_Artwork 228-2" src="https://github.com/user-attachments/assets/c7d33722-e367-4d3f-aa5a-8ff8d27d1cff"/> 
+<img width="1200" height="800" alt="Untitled_Artwork 228-2" src="https://github.com/user-attachments/assets/c7d33722-e367-4d3f-aa5a-8ff8d27d1cff"/> 
 
 
 
