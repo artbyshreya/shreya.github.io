@@ -12,12 +12,28 @@
         <button class="tab-button" onclick="openTab(event, 'Animation')">Animation</button>
         <button class="tab-button" onclick="openTab(event, 'Visual Development')">Visual Development</button>
         <button class="tab-button" onclick="openTab(event, 'Storyboards')">Storyboards</button>
+         <button class="tab-button" onclick="openTab(event, 'Personal')">Personal</button>
         <button class="tab-button" onclick="openTab(event, 'About')">About</button>
     </div>
-<div id="Animation Reel" class="tabcontent">
+<div id="Animation" class="tabcontent">
   <h3>2D Reel</h3>
   <p>London is the capital city of England.</p>
 </div>
+    
+tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Hide all elements by default */
+.tabcontent {
+  display: none;
+}
 
 </body>
 </html>
